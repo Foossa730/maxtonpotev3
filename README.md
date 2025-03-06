@@ -1,16 +1,15 @@
-# maxtonpotev3
+# MaxTonPote
 
-A new Flutter project.
+Salut Junior 👋
+J'espere que tu va bien depuis le Brazil !
 
-## Getting Started
+J'ai réussi à :
+    - Implémenter le login et l'inscription avec l'authentification Supabase.
+    - Afficher la carte avec un point (si elle ne bugue pas).
+    - Ajouter des amis aux favoris avec un bouton.
 
-This project is a starting point for a Flutter application.
+Je n'ai pas réussi à régler plusieurs petits détails, et surtout à mettre en place les notifications.
 
-A few resources to get you started if this is your first Flutter project:
+¡Buena continuación para ti! 🇧🇷
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Soann Ponçon
